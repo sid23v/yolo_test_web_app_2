@@ -1,7 +1,7 @@
 # yolo_test_web_app
 1. Open command prompt(windows) or terminal (Linux/Mac) and navigate to the desired root directory. <br>
 2. Clone the repository - <br>
-git clone https://github.com/sid23v/yolo_test_web_app.git <br>
+git clone https://github.com/sid23v/yolo_test_web_app_2.git <br>
 cd yolo_test_app <br>
 3. Create a virtual environment <br>
 python - m venv my_venv <br>
