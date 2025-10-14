@@ -4,7 +4,7 @@ import threading
 
 class VideoCamera:
     def __init__(self):
-        self.model = YOLO("models/best_4.pt")  
+        self.model = YOLO("models/best_5.pt")  
         self.cap = cv2.VideoCapture(0)
         self.cap.set(cv2.CAP_PROP_FRAME_WIDTH, 640)
         self.cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 480)
